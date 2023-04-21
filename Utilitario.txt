@@ -1,0 +1,5 @@
+     
+     int valorInteiro = Teclado.leInt("Digite um valor do tipo inteiro:");
+     double valorDouble = Teclado.leDouble("Digite um valor do tipo double:");
+     char valorChar = Teclado.leChar("Digite um valor do tipo char:");
+     String valorString = Teclado.leString("Digite um valor do tipo String:");
